@@ -1,6 +1,9 @@
 # CoalaEscape
 Room escape by Coala Software
 
+(폴더)개인과제_정가원
+(파일)mycode_개인과제_정가원
+
 >>게임의 기본 소개입니다.
 
 이 방탈출 게임은 어딘가 존재하는 빈센트 반 고흐의 영원한 의식속에 갇힌 한 사람의 이야기 입니다.
